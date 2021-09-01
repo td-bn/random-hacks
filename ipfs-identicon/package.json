@@ -1,0 +1,16 @@
+{
+  "name": "ipfs-identicon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "identicon": "^3.0.1",
+    "ipfs-http-client": "^52.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
